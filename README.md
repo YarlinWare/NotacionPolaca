@@ -34,6 +34,7 @@ La función principal:
 + main.py
 + ord_expre.py
 + operando.py
++ tipoorden.py
 + README.md
 
 
